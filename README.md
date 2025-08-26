@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **divyansh.sri258@gmail.com**
 
-- 📄 Know about my experiences [link]([link](https://drive.google.com/file/d/1H86A9yTPbH585JBLedTqJFlfosoZKUjl/view?usp=sharing))
+- 📄 Know about my experiences [link](https://drive.google.com/file/d/1H86A9yTPbH585JBLedTqJFlfosoZKUjl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
