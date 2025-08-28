@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **divyansh.sri258@gmail.com**
 
-- 📄 Know about my experiences [link](https://drive.google.com/file/d/1H86A9yTPbH585JBLedTqJFlfosoZKUjl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H86A9yTPbH585JBLedTqJFlfosoZKUjl/view?usp=sharing)
 
 ---
 
