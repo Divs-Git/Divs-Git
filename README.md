@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **vue,spring boot, react**
+- 💬 Ask me about **VueJS, ReactJS, Java, Spring boot, Docker, AWS**
 
 - 📫 How to reach me **divyansh.sri258@gmail.com**
 
