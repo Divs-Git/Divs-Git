@@ -36,7 +36,6 @@
 ### 🔸 LeetCode  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/divyansh_06?theme=dark&font=Karma&ext=contest)
 
----
 
 ### 🔹 GeeksforGeeks  
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/divsyakku_06)](<https://www.geeksforgeeks.org/user/divsyakku_06/>)
