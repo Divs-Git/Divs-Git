@@ -39,7 +39,3 @@
 
 ---
 
-### 🔷 Naukri Code360  
-![Code360 Stats](https://code360stats.vercel.app/api?user=divsyakku_06)  
-
----
