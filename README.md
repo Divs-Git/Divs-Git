@@ -35,7 +35,7 @@
 ---
 
 ### 🔹 GeeksforGeeks  
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/<divsyakku_06>)](<https://www.geeksforgeeks.org/user/divsyakku_06/>)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/divsyakku_06)](<https://www.geeksforgeeks.org/user/divsyakku_06/>)
 
 ---
 
