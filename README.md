@@ -26,3 +26,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divs-git&show_icons=true&locale=en" alt="divs-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divs-git&" alt="divs-git" /></p>
+
+## 📊 My DSA Stats  
+
+### 🔸 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/divyansh_06?theme=dark&font=Karma&ext=contest)
+
+---
+
+### 🔹 GeeksforGeeks  
+![GFG Stats](https://gfgstatscard.vercel.app/?user=divsyakku_06)  
+
+---
+
+### 🔷 Naukri Code360  
+![Code360 Stats](https://code360stats.vercel.app/api?user=divsyakku_06)  
+
+---
